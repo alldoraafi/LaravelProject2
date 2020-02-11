@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LaravelProject</string>
+    <string-array name="acara_array">
+        <item>Gerak Jalan</item>
+        <item>Dies Natalis</item>
+        <item>Kemerdekaan</item>
+    </string-array>
+</resources>
